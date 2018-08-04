@@ -8,6 +8,7 @@ def my_collect(array)
 end 
 for element in array 
 new_arr.push yield element
+end
 
 
 
