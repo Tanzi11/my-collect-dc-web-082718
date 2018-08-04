@@ -1,5 +1,6 @@
 def my_collect(array)
   new_arr = [] 
+  i=0 
   
 
 
