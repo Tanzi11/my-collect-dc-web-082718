@@ -20,4 +20,5 @@ my_collect(array) do |name|
 end
 
 my_collect(collection) do |lang|
-  
+  lang.upcase 
+end
